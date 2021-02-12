@@ -53,6 +53,8 @@
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajkumar98012)](https://github.com/Surajkumar98012/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajkumar98012&theme=tokyonight)](https://github.com/Surajkumar98012)
 <p> 🔭 You have finally discovered my Github profile!! 
 Thanks for stopping by! 🤝</p>
