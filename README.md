@@ -7,7 +7,7 @@
 
  <p align="center">
    <em>
-     This is Suraj Kumar , a 3rd year undergraduate pursuing B.Tech(cse) from <a href="https://www.globalinstitutes.edu.in"> <b>Global Institute Of Management and emarging Technology</b>,Amritsar</a>. <br>
+     This is Suraj Kumar , a 4th year undergraduate pursuing B.Tech(cse) from <a href="https://www.globalinstitutes.edu.in"> <b>Global Institute Of Management and emarging Technology</b>,Amritsar</a>. <br>
      An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="50px">&nbsp <br><b>still a learner</b>
      with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
      <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
@@ -25,7 +25,7 @@
  - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science🌱 & ML_**🔭
  - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px"> &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court !⚡️
  - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_Self Portrait_** & wish to become an **Creator** of my _Own Story_ ... 📝
- - 📫 How to reach me **srjrnw9@gmail.com** 💬
+ - 📫 How to reach me **kumarsuraj950788@gmail.com** 💬
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzle&label=Profile%20views&color=0e75b6&style=flat" alt="dazzle" /> </p>
 
 
