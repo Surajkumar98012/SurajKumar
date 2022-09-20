@@ -31,12 +31,12 @@
 
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzle" alt="dazzle" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/Surajku61172147?s=08" target="blank">@SurajKu61172147</a> </p> 
+<p align="left"> <a href="https://twitter.com/Surajkumar_09" target="blank">@SurajKumar_09</a> </p> 
 
 <h2 align="left">Let's connect! Find me on the web <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px"></h2>
 
 <p align="left">
-<a href="https://twitter.com/Surajku61172147?s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="__suraj__" height="30" width="40" /></a>
+<a href="https://twitter.com/Surajkumar_09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="__suraj__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kumar-suraj-7057321a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kumar Suraj" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suraj_parmar09/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Suraj Parmar" height="30" width="40" /></a>
 
