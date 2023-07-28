@@ -58,7 +58,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajkumar98012&theme=tokyonight)](https://github.com/Surajkumar98012)
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Surajkumar98012&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Surajkumar98012&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/> -->
 
 <p> 🔭 You have finally discovered my Github profile!! 
 Thanks for stopping by! 🤝</p>
