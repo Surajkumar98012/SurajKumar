@@ -55,7 +55,7 @@
 
 ---
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajkumar98012&theme=tokyonight)](https://github.com/Surajkumar98012)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajkumar98012&layout=compact&theme=tokyonight)](https://github.com/Surajkumar98012)
 
 <br>
 <!--<img src="https://github-readme-stats.vercel.app/api?username=Surajkumar98012&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/> -->
